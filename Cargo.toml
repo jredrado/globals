@@ -13,3 +13,4 @@ spin = "0.5"
 [dependencies.once_cell]
 version = "1"
 features = []
+default-features = false
